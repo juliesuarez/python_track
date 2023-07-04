@@ -35,3 +35,10 @@ print(capitals.values())
 print(capitals.get('uganda'))
 print(capitals.pop('kenya'))
 print(capitals.popitem())
+
+def age():
+   date_of_today = int(input('Please Enter the date of today: '))
+   date_of_birth = int(input('Please Enter the birth year: '))
+   age = date_of_today - date_of_birth
+
+age()

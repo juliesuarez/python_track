@@ -16,5 +16,5 @@ Catch bugs early
 only have one bug at a time
 look on what you last changed if your trying to find a bug
 always work in small chucks.avoid large chucks
-always make small commits
+always make small commits when using github
 2.if a bug isnt caught it gets harder to find because the details are not in your mind

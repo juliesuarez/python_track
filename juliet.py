@@ -49,7 +49,18 @@ cswork = int(input('Please enter your course work Marks: '))
 #we are evoking a function courseWrk.
 courseWrk(cswork)
 
-#Juliet Nakawesi - firstAssignment.py
+'''
+Basically,the code is calculating the final course mark basing on the values input of tests and course work.
+The defined function of tests has two parameters of test1 and test2
+The code then checks if the valaues of test1 and test2 are equal
+And if these values are equal it returns test1
+And if these values are not equal,it returns test2
+The code then prompts the user to input the marks of test1 and test by the input function which holds the 
+values as strings, the int function converts these values to integers
+Another function called course work is defined which has one parameter of cswork.
+Inside the function coursework,the function tests is called assigned to a variable testsMark
+The average mark is then calculated 
+'''
 
 
 
