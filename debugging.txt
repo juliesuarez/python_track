@@ -1,0 +1,20 @@
+
+A bug is a glitch in software that prevents a program from achieving the desired output.
+
+
+
+BUG SEEKING
+step1: writing code/coding
+step2: trying to break the code(testing)
+step3: if you succeed in breaking it,then you need to debug
+step4: if you fail to break it,then you are ok,then continue coding
+
+PRINCIPLES OF DEBUGGING
+1. Catch your bug as early as possible
+bugs caught early are pretty easy to fix because the deals are still in your mind and know where you look.
+Catch bugs early
+only have one bug at a time
+look on what you last changed if your trying to find a bug
+always work in small chucks.avoid large chucks
+always make small commits
+2.if a bug isnt caught it gets harder to find because the details are not in your mind
