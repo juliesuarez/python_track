@@ -27,3 +27,34 @@ STEEPS OF DEBUGGING
 5.fix the error,dont patch it(make the code work)
 6.test the fix you have just dictionaries
 7.look for similar bugs
+
+OTHER STEPS AND STRATEGIES
+>Reproducibility,be able to reproduce it,understand the cause and effect
+>Reduction,simplest test that exhibits the bug,bugs are caused by something,they are not random(bugs)
+they come from somewhere in the code
+>Deduction,observe what the program is doing,cant fix the bug if you dont know
+what the bug is doing,know the difference betn the working input and non working input
+>isolation
+Prior programming,someone else may see the wrong assumptions made,
+programming in tools,someone else can see the mistakes made.
+>explain someone(programmer) to understand your code
+helps u understand what your writing to do with your code
+>experience from others,ask for help from experienced programmers
+
+PREVENTIVE MEASURES TO AVOID 
+1. write clean code and easy to read ie,indenting code and not repeating yourself(dry)
+2.commenting ,figures out what your code is trying to solve with which parts of your code.
+3.make one change at a time,dont make many changes at the same time.
+4.test your code
+  >unit test,test the function blocks of your code
+  >integrated test,test how the blocks of code are interacting with themselves
+  >the test with invalid data,testing if the data is valid
+5.Defensive programming,by adding error checkingg code and throwing exceptions
+6.priotizing features that can be omitted
+7.incubating (sleeping)
+8.brainstorming
+
+DEBUGGING TOOLS
+linting
+break points,this helps you see which part of code is carrying a bug
+#reseacrh use a bug tool of your choice 
