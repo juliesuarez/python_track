@@ -18,3 +18,12 @@ look on what you last changed if your trying to find a bug
 always work in small chucks.avoid large chucks
 always make small commits when using github
 2.if a bug isnt caught it gets harder to find because the details are not in your mind
+
+STEEPS OF DEBUGGING
+1.plan your attack
+2.backup your files(using version control to keep track of my changes)
+3.isolate the block of code that has error like commenting it out
+4.after finding the error,finding the actual line of code that has error
+5.fix the error,dont patch it(make the code work)
+6.test the fix you have just dictionaries
+7.look for similar bugs
