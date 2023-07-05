@@ -25,3 +25,15 @@ print(ans)
 print(add2(2,3))
 
 # function sub2 is a calling function of add2 
+
+def examp():
+    my_list = []
+    num = input("enter your lucky number: ")
+    my_list.append(num)
+    print(my_list)
+    for item in my_list:
+        print(item)
+examp()
+
+#how while loop work in python,gracia
+# a switch case,hamlet

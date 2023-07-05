@@ -59,7 +59,11 @@ The code then prompts the user to input the marks of test1 and test by the input
 values as strings, the int function converts these values to integers
 Another function called course work is defined which has one parameter of cswork.
 Inside the function coursework,the function tests is called assigned to a variable testsMark
-The average mark is then calculated 
+The average mark is then calculated and assigned to avgtestsCswork.
+The final course mark is calculated from the value assigned to the avgtestsCswork which is multiplied
+by (40/100)
+The final course mark is input
+And finally the function is called to execute the calculation of the final course mark as described on line 53.
 '''
 
 

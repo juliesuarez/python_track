@@ -1,7 +1,9 @@
 
+
+
 def payee(salary,name,location,type_of_work):
     current_year = input('Please Enter current date: ')
-    Year_of_birth = input('Please Enter birth date: ')
+    Year_of_birth = input('Please Enter birth year: ')
     age = current_year - Year_of_birth
     print('your age is: ',age)
     rate = 0.3
@@ -20,7 +22,7 @@ def payee(salary,name,location,type_of_work):
 
 
 print('Welcome our dear customer! ')
-name = raw_input('please Enter name here:  ')
+name = raw_input('please Ener name here:  ')
 location = raw_input('Please Enter your location: ')
 #current_year = input('Please Enter current year: ')
 #Year_of_birth = input('Please Enter your year of birth: ')
