@@ -1,6 +1,38 @@
 
 A bug is a glitch in software that prevents a program from achieving the desired output.
+HAT IS DEBUGGING?
+def1:refers to the process of finding and fixing errors in your source code.
 
+WHAT IS A BUG?
+a bug is written code which doesnt give us the desired output.
+a bug is a glitch in software that prevents a program from achieving the desired output.
+a mistake that prevents the programmer from having the desired output/ prevents the program from being executed properly.
+
+TYPES/CLASSIFICATION OF BUGS
+1.Syntax errors(coding bugs); errors that violate the syntax rules 
+e.g spelling errors, passing arguments where there are no arguments needed.
+these occur during the build time. normally include misuse of functtions, variables,parameters.
+these are normally underlined by the IDE(Intergrated Development Enviornment).
+
+2.logical errors; these occur when steps taken to solve a problem are not well done.
+ OR occur when the process of solving the task at hand is not well done.e.g an endless loop.
+ the program works perfectly but it doesnt produce the expected results.
+
+3.Design bug; an error introduced into the system during the design process,
+ causing the program to do what it was programmed to do but not the right thing to do.
+
+4.Runtime bugs/errors; these occur when the application tries to perform an operation that isn't allowed. 
+and theyre only discovered st the point of running the script or program.
+e.g when you divide any number by zero(0), any calculation with a string.
+build-time errors,are the ones that come up as your writing the code
+TESTING;
+refers to trying to test the limit of your code. 
+
+DEBUGGING CYCLES;
+step1; coding.
+step2; check if its working.
+step3; this step is depandent on step2. if its not working we then DEBUG.
+step4; if its working then you're done and go back to step1.
 
 
 BUG SEEKING

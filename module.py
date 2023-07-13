@@ -27,5 +27,7 @@ python is mostly used for cybersecurity,commonly used language for hacking and c
 you can program graphics in python using turtle
 
 to use the package we import it first
+turtle is a functionality in python that gives you graphical designing
+package pil gives you 
 
 '''

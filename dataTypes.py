@@ -1,21 +1,21 @@
 # numeric datatype,string,sequence,mapping,boolean,set,
 # numerics (integers(int),float,complex)
 
-num1 = 1000
+NUM1 = 1000
 #int
-num2 = 1000.0
+NUM2 = 1000.0
 #float
-num3 = 1 + 2j
+NUM3 = 1 + 2j
 #complex
-print (type (num1))
-print (type (num2))
-print (type (num3))
+print (type (NUM1))
+print (type (NUM2))
+print (type (NUM3))
 
 # string(str)(any value in single or double quotes is a string)
-num4 = "1000"
-name = "julie"
-print (type (num4))
-print (type (name))
+NUM4 = "1000"
+NAME = "julie"
+print (type (NUM4))
+print (type (NAME))
 
 #sequence(lists,tuple,range)
 my_list = [0,2,4,6]

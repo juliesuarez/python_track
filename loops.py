@@ -48,3 +48,10 @@ def power(p):
     else:
         print('The power is an odd number')
 power(6)
+
+#while loops
+'''
+while loops we execute a set of statements as long as the condition remains true.
+using a while loop,define two functions that output even or odd numbers.
+range of 100,in tens
+'''

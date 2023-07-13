@@ -13,10 +13,10 @@ add(40,10)
 
 #modulus
 
-def rem(num,num1):
+def rem(num,num1): # the values are the parameters
     num2 = num % num1
     print(num2)
-rem(100,90)    
+rem(100,90) # the values(real ones) are the arguements   
 
 #subtraction
 
